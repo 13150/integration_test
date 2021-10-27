@@ -1,9 +1,7 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: Titulo del articulo uno
-  body: Cuerpo del articulo uno
+  body: MyText
 
 two:
-  title: Titulo del articulo dos
-  body: Cuerpo del articulo dos
+  body: MyText
